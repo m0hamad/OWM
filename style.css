@@ -1,0 +1,78 @@
+#pageHeader {
+    text-align: center;
+    margin: auto;
+    background: #2e4482;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+#splitter1 {
+    background: #87889c;
+    margin: 0%;
+    padding: 0%;
+    height: .1rem;
+}
+
+#pageHeader h1 {
+    color: #fff;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+}
+
+.searchContainer {
+    align-items: center;
+    margin: auto;
+    background: #2e4482;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-bottom-left-radius: .25rem;
+    border-bottom-right-radius: .25rem;
+    padding-left: 2rem;
+}
+
+#searchInput {
+    border-radius: .25rem;
+    width: 8rem;
+    text-align: center;
+    height: 1rem;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+    font-size: .8rem;
+}
+
+#searchBtn {
+    background: #87889c;
+    color: #fff;
+    border-radius: .25rem;
+    height: 1.32rem;
+}
+
+#weatherContainer {
+    margin-top: .5rem;
+    border-radius: .25rem;
+    height: 4.2rem;
+    background: #bbeaff;
+    vertical-align: middle;
+}
+
+#temperature {
+    font-weight: bold;
+    font-size: 1.3rem;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+    margin-top: 36rem;
+    padding-top: 2rem;
+    margin-right: 2rem;
+}
+
+#humidity {
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+}
+
+#documentIconImg {
+    background: #fff;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 2rem;
+    margin-left: 2rem;
+    margin-top: .2rem;
+}
